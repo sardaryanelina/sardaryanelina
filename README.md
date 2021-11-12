@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sardaryanelina
-- 👀 I’m interested in design and pogramming
+- 👀 I’m interested in design and pogramming.
 - 🌱 I’m currnetly a student of Internet Programming and Development at John Abbott college.
 - 💞️ I am looking for career opportunity in web or mobile development.
 - 📫 How to reach me sardaryan.el@gmail.com or www.elina.ipd24.ca
