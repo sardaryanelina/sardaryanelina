@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sardaryanelina
 - 👀 I’m interested in design and pogramming.
-- 🌱 I’m currnetly a student of Internet Programming and Development at John Abbott college.
-- 💞️ I am looking for career opportunity in web or mobile development.
-- 📫 How to reach me sardaryan.el@gmail.com or www.elina.ipd24.ca
+- 🌱 I studied Internet Programming and Development at John Abbott college.
+- 💞️ I am looking for career opportunity in mobile development.
+- 📫 How to reach me sardaryan.el@gmail.com, www.elina.ipd24.ca or www.linkedin.com/in/elinasardaryan
 
 <!---
 sardaryanelina/sardaryanelina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
