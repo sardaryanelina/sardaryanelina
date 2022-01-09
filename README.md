@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sardaryanelina
 - 👀 I’m interested in design and development.
-- 🌱 I studied Internet Programming and Development at John Abbott college.
+- 🌱 I studied Graphic Design at Rosemount Technology Centre in Montreal, Canada.
+- 🌱 I studied Internet Programming and Development at John Abbott college in Montreal, Canada.
 - 💞️ I am looking for career opportunity in mobile development.
 - 📫 How to reach me sardaryan.el@gmail.com or www.linkedin.com/in/elinasardaryan
 
